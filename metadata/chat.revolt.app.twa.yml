@@ -1,0 +1,9 @@
+AuthorName: 'Revolt'
+Categories:
+- Phone & SMS
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/revoltchat/android-twa'
+Name: Revolt
+SourceCode: 'https://github.com/revoltchat'
+Summary: 'User-first, privacy focused chat platform.'
+WebSite: 'https://revolt.chat'

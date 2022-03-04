@@ -1,0 +1,40 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "chat.revolt.app.twa.apk": {
+    "hash": "695ab70f57318abd11d55f266d8f57e58c28ad61d312264bec671948591774bf",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "chat.revolt.app.twa.7.png",
+      "480": "chat.revolt.app.twa.7.png",
+      "320": "chat.revolt.app.twa.7.png",
+      "240": "chat.revolt.app.twa.7.png",
+      "160": "chat.revolt.app.twa.7.png",
+      "0": "chat.revolt.app.twa.7.png"
+    },
+    "antiFeatures": [],
+    "packageName": "chat.revolt.app.twa",
+    "versionCode": 7,
+    "name": "Revolt",
+    "versionName": "7",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 31,
+    "sig": "63bb7f071518d2a4aedcdc6ac964cce1",
+    "signer": "2bc78987bd6288387bc0d75fd110f491d524a6b3253a75c23a91071b63c09867",
+    "size": 285117,
+    "apkName": "chat.revolt.app.twa.apk",
+    "icon": "chat.revolt.app.twa.7.png",
+    "added": 1646423802.23869
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--create-metadata"
+  ],
+  "fdroiddata": {
+    "commitId": "None",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      ".gitignore",
+      "README.md",
+      "metadata/chat.revolt.app.twa.yml",
+      "repo/categories.txt",
+      "repo/chat.revolt.app.twa.apk",
+      "repo/icons-120/chat.revolt.app.twa.7.png",
+      "repo/icons-160/chat.revolt.app.twa.7.png",
+      "repo/icons-240/chat.revolt.app.twa.7.png",
+      "repo/icons-320/chat.revolt.app.twa.7.png",
+      "repo/icons-480/chat.revolt.app.twa.7.png",
+      "repo/icons-640/chat.revolt.app.twa.7.png",
+      "repo/icons/chat.revolt.app.twa.7.png",
+      "repo/icons/icon.png",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml",
+      "repo/status/running.json",
+      "repo/status/update.json",
+      "tmp/apkcache.json"
+    ]
+  },
+  "startTimestamp": 1646424360000,
+  "subcommand": "update"
+}

@@ -1,3 +1,3 @@
 # Revolt F-droid Repository
 
-Available at https://fdroid.revolt.chat/repo/
+Available at [fdroid.revolt.chat/repo](https://fdroid.revolt.chat/repo/).
